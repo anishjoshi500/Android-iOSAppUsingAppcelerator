@@ -1,0 +1,1 @@
+module.exports = [{"isApi":true,"priority":1000.0002,"key":"TextField","style":{borderStyle:Ti.UI.INPUT_BORDERSTYLE_ROUNDED,top:10,left:20,right:20,height:40,}},{"isClass":true,"priority":10101.0001,"key":"container","style":{backgroundColor:"white",}}];
